@@ -3,15 +3,6 @@
 **Empresa Inmobiliaria**
 **Repositorio GitHub:** Inmobiliaria_X17
 
-**Nombres miembros del grupo:**
-
-Óscar David Tremiño Guirao
-Raúl Beltrán Marco (Coordinador)
-Ahmed Begga Hachlafi
-
-**Turno:**
-Miércoles 17:00-19:00
-
 **Descripción:**
 
 Se trata de una **Inmobiliaria Online**,en el que usuarios podrán darse de alta y se les ofrecerá un listado de viviendas donde podrá seleccionar la que más le guste y contactar con el personal para hacer una visita a la vivienda que más le guste. A parte también dispondrá de un apartado de reformas donde el usuario podrá solicitar presupuestos según el tipo de reforma. 
