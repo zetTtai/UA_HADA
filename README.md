@@ -1,3 +1,5 @@
+**Contributors**: [Unioscar](github.com/Unioscar) & [AhmedBegggaUA](github.com/AhmedBegggaUA)
+
 **Empresa Inmobiliaria**
 **Repositorio GitHub:** Inmobiliaria_X17
 
@@ -22,7 +24,7 @@ Se trata de una **Inmobiliaria Online**,en el que usuarios podrán darse de alta
  -Ver los productos detalladamente -> se puede entrar a ver detalladamente un vehículo. -Ver las ofertas -> aparecerá un apartado con ofertas.
 -Ofrecer reformas -> permitirá que el cliente tenga un presupuesto aproximado de que le puede costar la reforma
 
-**Listado EN pública:**
+**Listado en pública:**
 
 -ENVivienda->Una vivienda con los atributos que la definan
 -ENSeleccionReforma-> Lista de diferentes reformas 
@@ -38,7 +40,7 @@ Se trata de una **Inmobiliaria Online**,en el que usuarios podrán darse de alta
 -Modificar tu perfil de usuario
 -Añadir reforma-> Añadir una nueva reforma con sus características con posibilidad de editar 
 
-**Listado En privada:**
+**Listado en privada:**
 
 -ENUsuario-> usuario particular que puede que puede listar sus viviendas favoritas ,adquirir reformas a su domicilio , guardar sus reformas así como editar sus reformas.
 -ENCompra -> registra una reforma adquirida por el usuario.
