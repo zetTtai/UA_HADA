@@ -1,0 +1,24 @@
+﻿.titulo {
+    position: relative;
+    height: 130px;
+    width: 100%;
+    margin-left: auto;
+    background-color: red;
+}
+
+#FondoPagina {
+    background-image: url(/imagenes/fondo.png);
+}
+
+.DivCentro {
+    width: 500px;
+    margin-right: 300px;
+    padding-left: 300px;
+    float: unset;
+}
+
+#DivNombres {
+    position: relative;
+    height: 130px;
+    width: 100%;
+}

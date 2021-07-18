@@ -1,0 +1,43 @@
+﻿.titulo {
+    position: relative;
+    height: 130px;
+    width: 100%;
+    margin-left: auto;
+    background-color: red;
+}
+
+#FondoPagina {
+    background-image: url(/imagenes/fondo.png);
+}
+
+.DivCentro {
+    border-radius: 8px 8px 8px 8px;
+    border: 1px solid #6e6e6e;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+    padding-left: 1.5%;
+    height: 709px;
+    padding-top: 2%;
+    padding-bottom: 1.5%
+}
+
+.DivCentroInicio {
+    border-radius: 8px 8px 8px 8px;
+    border: 1px solid #6e6e6e;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+    padding-left: 1.5%;
+    height: 375px;
+    padding-top: 2%;
+    padding-bottom: 1.5%
+}
+
+#DivNombres {
+    position: relative;
+    height: 130px;
+    width: 100%;
+}

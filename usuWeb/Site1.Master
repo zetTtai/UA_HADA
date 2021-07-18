@@ -1,0 +1,59 @@
+﻿<link href="StyleSheet1.css" rel="stylesheet" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <html id="FondoPagina">
+    <head runat="server">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        #titulo {
+            margin:auto;
+            margin-left:10px;
+            width: 431px;
+            color:white;
+        }
+        #Nombres {
+            margin:auto;
+            width: 100px;
+            margin-top: 0px;
+        }
+        body{
+            margin: auto;
+            background: url(/imagenes/webFondo.png);
+        }
+        
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="background-color:#1a1919; padding:30px; font-family: 'Gill Sans Nova'; font-size: 68px; color: #c80000;">
+            <a title="Volver a la página principal" href="Inicio.aspx"><img src="imagenes/webLogo.png" alt="Volver a la página principal" style="height: 115px; width: 185px" /></a>
+            Inmobiliaria X17</div>
+        <div>
+            <asp:Menu ID="Menu1" runat="server" BackColor="#323131" DisappearAfter="500"  DynamicHorizontalOffset="0" Font-Names="Yu Gothic UI Semilight" Font-Size="X-Large" ForeColor="White" Orientation="Horizontal" Width="100%" Height="60px" RenderingMode="Table" style="margin-left: 0px"> 
+             <StaticHoverStyle Height="50px" ForeColor="#c80000" />
+                 <StaticMenuItemStyle  Width="100%" ItemSpacing="10px" HorizontalPadding="6px"/>
+                <DynamicMenuStyle BackColor="#323131" Width="200px" HorizontalPadding="6px"/>
+                <DynamicMenuItemStyle ItemSpacing="10px"  />
+                 <DynamicHoverStyle ForeColor="#c80000" />
+                 <StaticSelectedStyle Font-Bold="true" />
+                    <Items>
+                        <asp:MenuItem Text="Buscar Anuncio" Value="Buscar" NavigateUrl="Default.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Publicar Anuncio" Value="Publicar" NavigateUrl="PublicarAnuncio.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Mis Anuncios" Value="Manuncios" NavigateUrl="MisAnuncios.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Mis Favoritos" Value="Favoritos" NavigateUrl="MisFavoritos.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Regístrate" Value="Registro" NavigateUrl="Registro.aspx" >
+                            <asp:MenuItem Text="Iniciar Sesión" Value="Iniciar sesion" NavigateUrl="IniciarSesion.aspx"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Ayuda" Value="Ayuda" NavigateUrl="ayuda.aspx"></asp:MenuItem>  
+                    </Items>
+            </asp:Menu>
+            </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+        </div>
+    </form>
+</body>
+</html>

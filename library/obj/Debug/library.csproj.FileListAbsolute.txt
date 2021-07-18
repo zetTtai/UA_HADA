@@ -1,0 +1,30 @@
+C:\Users\Begga\Desktop\hada-p3\library\obj\Debug\library.csprojAssemblyReference.cache
+C:\Users\Begga\Desktop\hada-p3\library\bin\Debug\library.dll
+C:\Users\Begga\Desktop\hada-p3\library\bin\Debug\library.pdb
+C:\Users\Begga\Desktop\hada-p3\library\obj\Debug\library.dll
+C:\Users\Begga\Desktop\hada-p3\library\obj\Debug\library.pdb
+C:\Users\Begga\OneDrive\UA\SegundoCurso\Segundo Cuatrimestre\Herramientas Avanzadas Para El Desarollo De Aplicaciones\Practica 3\hada-p3\library\bin\Debug\library.dll
+C:\Users\Begga\OneDrive\UA\SegundoCurso\Segundo Cuatrimestre\Herramientas Avanzadas Para El Desarollo De Aplicaciones\Practica 3\hada-p3\library\bin\Debug\library.pdb
+C:\Users\Begga\OneDrive\UA\SegundoCurso\Segundo Cuatrimestre\Herramientas Avanzadas Para El Desarollo De Aplicaciones\Practica 3\hada-p3\library\obj\Debug\library.csprojAssemblyReference.cache
+C:\Users\Begga\OneDrive\UA\SegundoCurso\Segundo Cuatrimestre\Herramientas Avanzadas Para El Desarollo De Aplicaciones\Practica 3\hada-p3\library\obj\Debug\library.dll
+C:\Users\Begga\OneDrive\UA\SegundoCurso\Segundo Cuatrimestre\Herramientas Avanzadas Para El Desarollo De Aplicaciones\Practica 3\hada-p3\library\obj\Debug\library.pdb
+C:\Users\Begga\Desktop\kk\hada-p3\library\obj\Debug\library.csprojAssemblyReference.cache
+C:\Users\Begga\Desktop\kk\hada-p3\library\obj\Debug\library.dll
+C:\Users\Begga\Desktop\kk\hada-p3\library\obj\Debug\library.pdb
+C:\Users\Begga\Desktop\kk\hada-p3\library\bin\Debug\library.dll
+C:\Users\Begga\Desktop\kk\hada-p3\library\bin\Debug\library.pdb
+C:\Users\Begga\Desktop\kk\hada-p3\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\library\obj\Debug\library.csprojAssemblyReference.cache
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\library\obj\Debug\library.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\library\obj\Debug\library.pdb
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\library\bin\Debug\library.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\library\bin\Debug\library.pdb
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\library\obj\Debug\library.csprojAssemblyReference.cache
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\library\obj\Debug\library.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\library\obj\Debug\library.pdb
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\library\bin\Debug\library.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\library\bin\Debug\library.pdb
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\library\obj\Debug\library.csprojAssemblyReference.cache
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\library\obj\Debug\library.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\library\obj\Debug\library.pdb

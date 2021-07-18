@@ -1,0 +1,424 @@
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\usuWeb.dll.config
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\usuWeb.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\usuWeb.pdb
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\csc.exe
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\csc.exe.config
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\csc.rsp
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\csi.exe
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\csi.exe.config
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\csi.rsp
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Console.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\vbc.exe
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\vbc.exe.config
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\vbc.rsp
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Begga\Desktop\hada-p3\usuWeb\obj\Debug\usuWeb.csprojAssemblyReference.cache
+C:\Users\Begga\Desktop\hada-p3\usuWeb\obj\Debug\usuWeb.csproj.CopyComplete
+C:\Users\Begga\Desktop\hada-p3\usuWeb\obj\Debug\usuWeb.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\obj\Debug\usuWeb.pdb
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\library.dll
+C:\Users\Begga\Desktop\hada-p3\usuWeb\bin\library.pdb
+C:\Users\Begga\OneDrive\UA\SegundoCurso\Segundo Cuatrimestre\Herramientas Avanzadas Para El Desarollo De Aplicaciones\Practica 3\hada-p3\usuWeb\obj\Debug\usuWeb.dll
+C:\Users\Begga\OneDrive\UA\SegundoCurso\Segundo Cuatrimestre\Herramientas Avanzadas Para El Desarollo De Aplicaciones\Practica 3\hada-p3\usuWeb\obj\Debug\usuWeb.pdb
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\usuWeb.dll.config
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\usuWeb.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\usuWeb.pdb
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\csc.exe
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\csc.exe.config
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\csc.rsp
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\csi.exe
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\csi.exe.config
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\csi.rsp
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Console.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\vbc.exe
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\vbc.exe.config
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\vbc.rsp
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\library.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\library.pdb
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\obj\Debug\usuWeb.csprojAssemblyReference.cache
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\obj\Debug\usuWeb.csproj.CopyComplete
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\obj\Debug\usuWeb.dll
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\obj\Debug\usuWeb.pdb
+C:\Users\Begga\Desktop\kk\hada-p3\usuWeb\obj\Debug\usuWeb.csproj.CoreCompileInputs.cache
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\usuWeb.dll.config
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\usuWeb.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\usuWeb.pdb
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\csc.exe
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\csc.exe.config
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\csc.rsp
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\csi.exe
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\csi.exe.config
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\csi.rsp
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.AppContext.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Console.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\vbc.exe
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\vbc.exe.config
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\vbc.rsp
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\library.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\library.pdb
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\obj\Debug\usuWeb.csprojAssemblyReference.cache
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\obj\Debug\usuWeb.csproj.CopyComplete
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\obj\Debug\usuWeb.dll
+C:\Users\IronDarkRL\Desktop\hada-p3\usuWeb\obj\Debug\usuWeb.pdb
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\usuWeb.dll.config
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\usuWeb.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\usuWeb.pdb
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\csc.exe
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\csc.exe.config
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\csc.rsp
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\csi.exe
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\csi.exe.config
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\csi.rsp
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.AppContext.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Console.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\vbc.exe
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\vbc.exe.config
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\vbc.rsp
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\library.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\library.pdb
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\obj\Debug\usuWeb.csprojAssemblyReference.cache
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\obj\Debug\usuWeb.csproj.CopyComplete
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\obj\Debug\usuWeb.dll
+C:\Users\IronDarkRL\Desktop\develop\usuWeb\obj\Debug\usuWeb.pdb
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\usuWeb.dll.config
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\usuWeb.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\usuWeb.pdb
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csc.exe
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csc.exe.config
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csc.rsp
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csi.exe
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csi.exe.config
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csi.rsp
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.AppContext.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Console.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\vbc.exe
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\vbc.exe.config
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\vbc.rsp
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\library.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\library.pdb
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\obj\Debug\usuWeb.csprojAssemblyReference.cache
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\obj\Debug\usuWeb.csproj.CopyComplete
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\obj\Debug\usuWeb.dll
+C:\Users\IronDarkRL\Desktop\Inmobiliaria_X17-develop\usuWeb\obj\Debug\usuWeb.pdb
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\usuWeb.dll.config
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\usuWeb.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\usuWeb.pdb
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csc.exe
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csc.exe.config
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csc.rsp
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csi.exe
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csi.exe.config
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csi.rsp
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Console.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\vbc.exe
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\vbc.exe.config
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\vbc.rsp
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\library.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\library.pdb
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\obj\Debug\usuWeb.csprojAssemblyReference.cache
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\obj\Debug\usuWeb.csproj.CoreCompileInputs.cache
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\obj\Debug\usuWeb.csproj.CopyComplete
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\obj\Debug\usuWeb.dll
+C:\Users\Begga\Desktop\develop\Inmobiliaria_X17-develop\usuWeb\obj\Debug\usuWeb.pdb
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\usuWeb.dll.config
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\usuWeb.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\usuWeb.pdb
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csc.exe
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csc.exe.config
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csc.rsp
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csi.exe
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csi.exe.config
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\csi.rsp
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.AppContext.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Console.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\vbc.exe
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\vbc.exe.config
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\vbc.rsp
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\library.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\library.pdb
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\obj\Debug\usuWeb.csprojAssemblyReference.cache
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\obj\Debug\usuWeb.csproj.CopyComplete
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\obj\Debug\usuWeb.dll
+C:\Users\oscar\OneDrive\Escritorio\practica 4\Inmobiliaria_X17-develop\Inmobiliaria_X17-develop\usuWeb\obj\Debug\usuWeb.pdb
